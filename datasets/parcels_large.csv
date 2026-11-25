@@ -1,0 +1,501 @@
+parcel_id,customer_name,destination_id,destination_name,weight_kg,priority_tier,deadline_hrs,value_score,fragile
+PKG-0001,Enterprise-0001,Z6,Riverfront Cargo Pier,7,3,10.9,62,False
+PKG-0002,Enterprise-0002,Z2,Secretariat Enclave,3,3,10.6,42,False
+PKG-0003,Enterprise-0003,Z7,Electronic City Phase-2,6,2,6.2,60,False
+PKG-0004,Enterprise-0004,Z11,Greenwood Residency,9,1,2.3,137,False
+PKG-0005,Enterprise-0005,Z7,Electronic City Phase-2,6,3,9.9,52,False
+PKG-0006,Enterprise-0006,Z6,Riverfront Cargo Pier,8,2,5.1,112,False
+PKG-0007,Enterprise-0007,Z3,Health City Sector-8,6,1,3.8,100,True
+PKG-0008,Enterprise-0008,Z8,South Extension Plaza,6,2,3.8,87,False
+PKG-0009,Enterprise-0009,Z6,Riverfront Cargo Pier,5,2,8.0,76,False
+PKG-0010,Enterprise-0010,Z7,Electronic City Phase-2,10,3,12.4,82,False
+PKG-0011,Enterprise-0011,Z7,Electronic City Phase-2,3,2,7.2,87,False
+PKG-0012,Enterprise-0012,Z10,Knowledge Park Campus,5,3,13.2,56,False
+PKG-0013,Enterprise-0013,Z2,Secretariat Enclave,11,1,1.7,88,False
+PKG-0014,Enterprise-0014,Z8,South Extension Plaza,4,2,6.5,59,False
+PKG-0015,Enterprise-0015,Z1,Connaught Financial Hub,5,2,4.1,67,False
+PKG-0016,Enterprise-0016,Z10,Knowledge Park Campus,9,2,4.4,103,False
+PKG-0017,Enterprise-0017,Z3,Health City Sector-8,2,3,14.8,77,False
+PKG-0018,Enterprise-0018,Z9,Aerocity Terminal Zone,12,1,3.4,80,False
+PKG-0019,Enterprise-0019,Z7,Electronic City Phase-2,12,2,6.3,84,False
+PKG-0020,Enterprise-0020,Z4,Heritage Bullion Market,6,2,3.8,107,False
+PKG-0021,Enterprise-0021,Z1,Connaught Financial Hub,11,1,2.8,146,False
+PKG-0022,Enterprise-0022,Z9,Aerocity Terminal Zone,4,3,8.0,53,False
+PKG-0023,Enterprise-0023,Z10,Knowledge Park Campus,1,3,11.8,49,False
+PKG-0024,Enterprise-0024,Z7,Electronic City Phase-2,4,2,5.6,91,False
+PKG-0025,Enterprise-0025,Z4,Heritage Bullion Market,5,2,7.4,68,False
+PKG-0026,Enterprise-0026,Z1,Connaught Financial Hub,5,2,7.5,69,False
+PKG-0027,Enterprise-0027,Z8,South Extension Plaza,11,3,11.6,71,False
+PKG-0028,Enterprise-0028,Z3,Health City Sector-8,8,2,4.5,110,False
+PKG-0029,Enterprise-0029,Z5,Botanical Garden Hub,4,3,13.9,42,False
+PKG-0030,Enterprise-0030,Z10,Knowledge Park Campus,3,1,1.3,101,True
+PKG-0031,Enterprise-0031,Z10,Knowledge Park Campus,9,2,7.7,113,False
+PKG-0032,Enterprise-0032,Z6,Riverfront Cargo Pier,5,2,7.5,114,False
+PKG-0033,Enterprise-0033,Z2,Secretariat Enclave,8,1,3.7,110,False
+PKG-0034,Enterprise-0034,Z10,Knowledge Park Campus,4,1,3.3,108,True
+PKG-0035,Enterprise-0035,Z2,Secretariat Enclave,7,2,4.4,88,False
+PKG-0036,Enterprise-0036,Z10,Knowledge Park Campus,5,1,3.7,129,True
+PKG-0037,Enterprise-0037,Z7,Electronic City Phase-2,1,1,1.8,80,True
+PKG-0038,Enterprise-0038,Z7,Electronic City Phase-2,10,2,6.3,81,False
+PKG-0039,Enterprise-0039,Z10,Knowledge Park Campus,1,1,1.1,88,True
+PKG-0040,Enterprise-0040,Z8,South Extension Plaza,12,2,6.2,95,False
+PKG-0041,Enterprise-0041,Z1,Connaught Financial Hub,5,2,6.2,113,False
+PKG-0042,Enterprise-0042,Z5,Botanical Garden Hub,11,1,2.8,115,False
+PKG-0043,Enterprise-0043,Z1,Connaught Financial Hub,4,2,5.1,73,False
+PKG-0044,Enterprise-0044,Z1,Connaught Financial Hub,11,1,3.8,96,False
+PKG-0045,Enterprise-0045,Z1,Connaught Financial Hub,6,2,3.8,99,False
+PKG-0046,Enterprise-0046,Z9,Aerocity Terminal Zone,11,2,6.5,56,False
+PKG-0047,Enterprise-0047,Z3,Health City Sector-8,10,2,7.4,105,False
+PKG-0048,Enterprise-0048,Z3,Health City Sector-8,1,3,10.2,47,False
+PKG-0049,Enterprise-0049,Z5,Botanical Garden Hub,6,3,8.8,82,False
+PKG-0050,Enterprise-0050,Z2,Secretariat Enclave,2,2,6.1,79,False
+PKG-0051,Enterprise-0051,Z7,Electronic City Phase-2,3,1,2.9,122,True
+PKG-0052,Enterprise-0052,Z8,South Extension Plaza,4,2,5.1,65,False
+PKG-0053,Enterprise-0053,Z2,Secretariat Enclave,1,1,2.7,146,True
+PKG-0054,Enterprise-0054,Z2,Secretariat Enclave,7,2,7.2,108,False
+PKG-0055,Enterprise-0055,Z1,Connaught Financial Hub,6,2,4.1,112,False
+PKG-0056,Enterprise-0056,Z8,South Extension Plaza,2,2,6.6,90,False
+PKG-0057,Enterprise-0057,Z1,Connaught Financial Hub,9,1,2.2,99,False
+PKG-0058,Enterprise-0058,Z9,Aerocity Terminal Zone,3,1,1.9,83,True
+PKG-0059,Enterprise-0059,Z7,Electronic City Phase-2,5,1,1.2,149,True
+PKG-0060,Enterprise-0060,Z5,Botanical Garden Hub,5,2,7.4,89,False
+PKG-0061,Enterprise-0061,Z4,Heritage Bullion Market,12,1,3.5,131,False
+PKG-0062,Enterprise-0062,Z8,South Extension Plaza,12,2,6.1,112,False
+PKG-0063,Enterprise-0063,Z5,Botanical Garden Hub,12,2,3.5,92,False
+PKG-0064,Enterprise-0064,Z11,Greenwood Residency,10,1,3.1,91,False
+PKG-0065,Enterprise-0065,Z4,Heritage Bullion Market,11,3,12.8,76,False
+PKG-0066,Enterprise-0066,Z2,Secretariat Enclave,5,1,2.6,80,True
+PKG-0067,Enterprise-0067,Z7,Electronic City Phase-2,4,3,10.8,86,False
+PKG-0068,Enterprise-0068,Z8,South Extension Plaza,9,1,2.3,90,False
+PKG-0069,Enterprise-0069,Z10,Knowledge Park Campus,3,1,3.4,114,True
+PKG-0070,Enterprise-0070,Z4,Heritage Bullion Market,10,2,4.2,78,False
+PKG-0071,Enterprise-0071,Z7,Electronic City Phase-2,1,2,4.2,110,False
+PKG-0072,Enterprise-0072,Z2,Secretariat Enclave,2,1,3.2,117,True
+PKG-0073,Enterprise-0073,Z8,South Extension Plaza,10,2,4.0,75,False
+PKG-0074,Enterprise-0074,Z8,South Extension Plaza,6,2,5.8,83,False
+PKG-0075,Enterprise-0075,Z9,Aerocity Terminal Zone,4,1,1.7,140,True
+PKG-0076,Enterprise-0076,Z5,Botanical Garden Hub,5,2,7.8,65,False
+PKG-0077,Enterprise-0077,Z10,Knowledge Park Campus,11,2,6.5,87,False
+PKG-0078,Enterprise-0078,Z10,Knowledge Park Campus,9,3,13.3,66,False
+PKG-0079,Enterprise-0079,Z7,Electronic City Phase-2,6,2,6.9,110,False
+PKG-0080,Enterprise-0080,Z9,Aerocity Terminal Zone,3,1,3.6,90,True
+PKG-0081,Enterprise-0081,Z4,Heritage Bullion Market,3,2,3.6,103,False
+PKG-0082,Enterprise-0082,Z3,Health City Sector-8,4,2,6.4,113,False
+PKG-0083,Enterprise-0083,Z2,Secretariat Enclave,11,3,13.6,79,False
+PKG-0084,Enterprise-0084,Z6,Riverfront Cargo Pier,5,2,4.0,87,False
+PKG-0085,Enterprise-0085,Z2,Secretariat Enclave,7,1,2.4,108,False
+PKG-0086,Enterprise-0086,Z11,Greenwood Residency,6,2,5.6,111,False
+PKG-0087,Enterprise-0087,Z9,Aerocity Terminal Zone,11,2,4.1,63,False
+PKG-0088,Enterprise-0088,Z11,Greenwood Residency,6,3,13.5,79,False
+PKG-0089,Enterprise-0089,Z1,Connaught Financial Hub,6,2,6.1,112,False
+PKG-0090,Enterprise-0090,Z6,Riverfront Cargo Pier,4,1,2.1,129,True
+PKG-0091,Enterprise-0091,Z3,Health City Sector-8,2,2,7.7,99,False
+PKG-0092,Enterprise-0092,Z1,Connaught Financial Hub,6,3,8.0,76,False
+PKG-0093,Enterprise-0093,Z1,Connaught Financial Hub,8,1,3.2,84,False
+PKG-0094,Enterprise-0094,Z8,South Extension Plaza,12,1,1.5,143,False
+PKG-0095,Enterprise-0095,Z8,South Extension Plaza,8,2,3.9,108,False
+PKG-0096,Enterprise-0096,Z4,Heritage Bullion Market,1,3,14.4,47,False
+PKG-0097,Enterprise-0097,Z3,Health City Sector-8,6,3,11.6,48,False
+PKG-0098,Enterprise-0098,Z4,Heritage Bullion Market,8,2,6.6,89,False
+PKG-0099,Enterprise-0099,Z7,Electronic City Phase-2,6,2,6.8,82,False
+PKG-0100,Enterprise-0100,Z5,Botanical Garden Hub,9,2,6.7,67,False
+PKG-0101,Enterprise-0101,Z6,Riverfront Cargo Pier,12,1,1.2,99,False
+PKG-0102,Enterprise-0102,Z10,Knowledge Park Campus,6,2,7.0,115,False
+PKG-0103,Enterprise-0103,Z3,Health City Sector-8,5,2,7.3,113,False
+PKG-0104,Enterprise-0104,Z10,Knowledge Park Campus,3,3,7.6,52,False
+PKG-0105,Enterprise-0105,Z9,Aerocity Terminal Zone,5,3,13.3,59,False
+PKG-0106,Enterprise-0106,Z11,Greenwood Residency,8,1,3.4,99,False
+PKG-0107,Enterprise-0107,Z2,Secretariat Enclave,3,2,6.9,63,False
+PKG-0108,Enterprise-0108,Z11,Greenwood Residency,12,2,4.1,90,False
+PKG-0109,Enterprise-0109,Z9,Aerocity Terminal Zone,4,2,6.4,85,False
+PKG-0110,Enterprise-0110,Z9,Aerocity Terminal Zone,6,2,4.4,86,False
+PKG-0111,Enterprise-0111,Z7,Electronic City Phase-2,6,3,9.8,51,False
+PKG-0112,Enterprise-0112,Z1,Connaught Financial Hub,5,2,4.7,63,False
+PKG-0113,Enterprise-0113,Z2,Secretariat Enclave,2,3,8.4,71,False
+PKG-0114,Enterprise-0114,Z5,Botanical Garden Hub,6,1,2.4,109,True
+PKG-0115,Enterprise-0115,Z1,Connaught Financial Hub,11,2,6.7,63,False
+PKG-0116,Enterprise-0116,Z10,Knowledge Park Campus,6,2,5.0,100,False
+PKG-0117,Enterprise-0117,Z7,Electronic City Phase-2,6,2,4.1,109,False
+PKG-0118,Enterprise-0118,Z6,Riverfront Cargo Pier,6,1,1.7,123,True
+PKG-0119,Enterprise-0119,Z9,Aerocity Terminal Zone,4,2,5.8,55,False
+PKG-0120,Enterprise-0120,Z4,Heritage Bullion Market,7,2,7.9,58,False
+PKG-0121,Enterprise-0121,Z9,Aerocity Terminal Zone,7,2,6.6,87,False
+PKG-0122,Enterprise-0122,Z3,Health City Sector-8,4,2,5.3,76,False
+PKG-0123,Enterprise-0123,Z7,Electronic City Phase-2,11,2,5.5,95,False
+PKG-0124,Enterprise-0124,Z7,Electronic City Phase-2,3,2,6.1,109,False
+PKG-0125,Enterprise-0125,Z6,Riverfront Cargo Pier,11,3,8.5,88,False
+PKG-0126,Enterprise-0126,Z6,Riverfront Cargo Pier,12,2,4.4,93,False
+PKG-0127,Enterprise-0127,Z2,Secretariat Enclave,4,1,1.2,96,True
+PKG-0128,Enterprise-0128,Z10,Knowledge Park Campus,9,3,14.2,42,False
+PKG-0129,Enterprise-0129,Z9,Aerocity Terminal Zone,12,3,8.1,47,False
+PKG-0130,Enterprise-0130,Z9,Aerocity Terminal Zone,8,3,7.9,52,False
+PKG-0131,Enterprise-0131,Z11,Greenwood Residency,7,3,9.9,76,False
+PKG-0132,Enterprise-0132,Z3,Health City Sector-8,11,2,5.1,82,False
+PKG-0133,Enterprise-0133,Z6,Riverfront Cargo Pier,7,2,4.6,86,False
+PKG-0134,Enterprise-0134,Z8,South Extension Plaza,3,3,14.9,72,False
+PKG-0135,Enterprise-0135,Z1,Connaught Financial Hub,8,2,7.0,91,False
+PKG-0136,Enterprise-0136,Z1,Connaught Financial Hub,6,1,1.2,128,True
+PKG-0137,Enterprise-0137,Z7,Electronic City Phase-2,10,3,12.9,46,False
+PKG-0138,Enterprise-0138,Z9,Aerocity Terminal Zone,1,3,13.5,87,False
+PKG-0139,Enterprise-0139,Z7,Electronic City Phase-2,11,2,7.4,98,False
+PKG-0140,Enterprise-0140,Z5,Botanical Garden Hub,1,2,4.6,57,False
+PKG-0141,Enterprise-0141,Z3,Health City Sector-8,10,1,2.6,83,False
+PKG-0142,Enterprise-0142,Z1,Connaught Financial Hub,1,2,3.8,75,False
+PKG-0143,Enterprise-0143,Z5,Botanical Garden Hub,10,2,5.6,95,False
+PKG-0144,Enterprise-0144,Z11,Greenwood Residency,1,2,5.1,97,False
+PKG-0145,Enterprise-0145,Z11,Greenwood Residency,6,1,1.2,111,True
+PKG-0146,Enterprise-0146,Z5,Botanical Garden Hub,10,2,4.6,91,False
+PKG-0147,Enterprise-0147,Z8,South Extension Plaza,3,2,6.9,105,False
+PKG-0148,Enterprise-0148,Z9,Aerocity Terminal Zone,9,1,2.0,91,False
+PKG-0149,Enterprise-0149,Z10,Knowledge Park Campus,2,3,9.3,53,False
+PKG-0150,Enterprise-0150,Z3,Health City Sector-8,9,3,8.9,73,False
+PKG-0151,Enterprise-0151,Z7,Electronic City Phase-2,4,1,1.8,97,True
+PKG-0152,Enterprise-0152,Z5,Botanical Garden Hub,2,1,3.6,141,True
+PKG-0153,Enterprise-0153,Z11,Greenwood Residency,3,2,3.6,70,False
+PKG-0154,Enterprise-0154,Z10,Knowledge Park Campus,10,3,7.5,64,False
+PKG-0155,Enterprise-0155,Z9,Aerocity Terminal Zone,11,3,7.6,41,False
+PKG-0156,Enterprise-0156,Z5,Botanical Garden Hub,10,1,1.8,130,False
+PKG-0157,Enterprise-0157,Z11,Greenwood Residency,5,3,13.5,53,False
+PKG-0158,Enterprise-0158,Z3,Health City Sector-8,9,2,5.4,98,False
+PKG-0159,Enterprise-0159,Z8,South Extension Plaza,4,1,1.7,148,True
+PKG-0160,Enterprise-0160,Z5,Botanical Garden Hub,9,2,6.0,79,False
+PKG-0161,Enterprise-0161,Z3,Health City Sector-8,4,1,2.3,84,True
+PKG-0162,Enterprise-0162,Z2,Secretariat Enclave,2,1,3.5,109,True
+PKG-0163,Enterprise-0163,Z7,Electronic City Phase-2,7,1,3.1,93,False
+PKG-0164,Enterprise-0164,Z1,Connaught Financial Hub,6,1,1.5,148,True
+PKG-0165,Enterprise-0165,Z10,Knowledge Park Campus,10,3,10.9,71,False
+PKG-0166,Enterprise-0166,Z3,Health City Sector-8,9,3,13.6,75,False
+PKG-0167,Enterprise-0167,Z8,South Extension Plaza,3,3,14.0,70,False
+PKG-0168,Enterprise-0168,Z5,Botanical Garden Hub,3,3,11.9,63,False
+PKG-0169,Enterprise-0169,Z9,Aerocity Terminal Zone,4,2,3.8,99,False
+PKG-0170,Enterprise-0170,Z5,Botanical Garden Hub,12,3,13.4,45,False
+PKG-0171,Enterprise-0171,Z7,Electronic City Phase-2,9,2,7.1,82,False
+PKG-0172,Enterprise-0172,Z9,Aerocity Terminal Zone,9,2,7.1,67,False
+PKG-0173,Enterprise-0173,Z8,South Extension Plaza,11,1,1.4,91,False
+PKG-0174,Enterprise-0174,Z10,Knowledge Park Campus,12,2,6.1,81,False
+PKG-0175,Enterprise-0175,Z7,Electronic City Phase-2,2,2,4.0,95,False
+PKG-0176,Enterprise-0176,Z5,Botanical Garden Hub,11,3,9.8,77,False
+PKG-0177,Enterprise-0177,Z7,Electronic City Phase-2,7,2,5.2,72,False
+PKG-0178,Enterprise-0178,Z3,Health City Sector-8,3,1,1.8,112,True
+PKG-0179,Enterprise-0179,Z10,Knowledge Park Campus,3,1,1.3,115,True
+PKG-0180,Enterprise-0180,Z8,South Extension Plaza,11,2,4.5,77,False
+PKG-0181,Enterprise-0181,Z2,Secretariat Enclave,5,3,9.1,58,False
+PKG-0182,Enterprise-0182,Z7,Electronic City Phase-2,12,2,5.2,114,False
+PKG-0183,Enterprise-0183,Z3,Health City Sector-8,2,2,7.4,97,False
+PKG-0184,Enterprise-0184,Z4,Heritage Bullion Market,11,3,12.2,70,False
+PKG-0185,Enterprise-0185,Z3,Health City Sector-8,10,2,3.6,90,False
+PKG-0186,Enterprise-0186,Z8,South Extension Plaza,5,2,5.8,71,False
+PKG-0187,Enterprise-0187,Z10,Knowledge Park Campus,9,3,13.3,70,False
+PKG-0188,Enterprise-0188,Z10,Knowledge Park Campus,7,1,1.7,89,False
+PKG-0189,Enterprise-0189,Z2,Secretariat Enclave,8,1,2.0,94,False
+PKG-0190,Enterprise-0190,Z1,Connaught Financial Hub,4,3,13.3,47,False
+PKG-0191,Enterprise-0191,Z7,Electronic City Phase-2,5,2,6.2,113,False
+PKG-0192,Enterprise-0192,Z1,Connaught Financial Hub,1,2,7.5,69,False
+PKG-0193,Enterprise-0193,Z9,Aerocity Terminal Zone,7,3,7.7,61,False
+PKG-0194,Enterprise-0194,Z10,Knowledge Park Campus,10,2,4.7,85,False
+PKG-0195,Enterprise-0195,Z2,Secretariat Enclave,6,1,1.4,85,True
+PKG-0196,Enterprise-0196,Z9,Aerocity Terminal Zone,1,2,5.7,109,False
+PKG-0197,Enterprise-0197,Z4,Heritage Bullion Market,5,1,1.8,142,True
+PKG-0198,Enterprise-0198,Z1,Connaught Financial Hub,1,3,9.4,81,False
+PKG-0199,Enterprise-0199,Z6,Riverfront Cargo Pier,3,1,2.8,85,True
+PKG-0200,Enterprise-0200,Z10,Knowledge Park Campus,9,2,3.7,69,False
+PKG-0201,Enterprise-0201,Z1,Connaught Financial Hub,6,1,3.3,148,True
+PKG-0202,Enterprise-0202,Z2,Secretariat Enclave,5,1,3.6,114,True
+PKG-0203,Enterprise-0203,Z6,Riverfront Cargo Pier,8,3,13.8,72,False
+PKG-0204,Enterprise-0204,Z8,South Extension Plaza,7,2,6.3,86,False
+PKG-0205,Enterprise-0205,Z6,Riverfront Cargo Pier,1,1,2.4,118,True
+PKG-0206,Enterprise-0206,Z8,South Extension Plaza,5,1,3.8,104,True
+PKG-0207,Enterprise-0207,Z7,Electronic City Phase-2,7,2,6.8,108,False
+PKG-0208,Enterprise-0208,Z6,Riverfront Cargo Pier,11,3,12.2,70,False
+PKG-0209,Enterprise-0209,Z11,Greenwood Residency,6,2,7.0,60,False
+PKG-0210,Enterprise-0210,Z11,Greenwood Residency,3,1,3.6,137,True
+PKG-0211,Enterprise-0211,Z9,Aerocity Terminal Zone,10,3,14.5,69,False
+PKG-0212,Enterprise-0212,Z6,Riverfront Cargo Pier,11,2,7.8,77,False
+PKG-0213,Enterprise-0213,Z10,Knowledge Park Campus,7,2,4.1,95,False
+PKG-0214,Enterprise-0214,Z8,South Extension Plaza,3,3,11.2,70,False
+PKG-0215,Enterprise-0215,Z6,Riverfront Cargo Pier,2,3,13.7,69,False
+PKG-0216,Enterprise-0216,Z5,Botanical Garden Hub,1,3,9.3,56,False
+PKG-0217,Enterprise-0217,Z9,Aerocity Terminal Zone,5,3,11.8,78,False
+PKG-0218,Enterprise-0218,Z4,Heritage Bullion Market,5,1,2.0,89,True
+PKG-0219,Enterprise-0219,Z5,Botanical Garden Hub,5,3,11.5,50,False
+PKG-0220,Enterprise-0220,Z8,South Extension Plaza,2,1,1.4,102,True
+PKG-0221,Enterprise-0221,Z1,Connaught Financial Hub,10,2,4.1,107,False
+PKG-0222,Enterprise-0222,Z1,Connaught Financial Hub,3,3,8.9,74,False
+PKG-0223,Enterprise-0223,Z7,Electronic City Phase-2,2,3,11.8,68,False
+PKG-0224,Enterprise-0224,Z3,Health City Sector-8,9,2,3.9,111,False
+PKG-0225,Enterprise-0225,Z2,Secretariat Enclave,3,1,1.1,97,True
+PKG-0226,Enterprise-0226,Z9,Aerocity Terminal Zone,1,2,3.9,77,False
+PKG-0227,Enterprise-0227,Z4,Heritage Bullion Market,12,2,4.3,80,False
+PKG-0228,Enterprise-0228,Z2,Secretariat Enclave,10,2,5.5,71,False
+PKG-0229,Enterprise-0229,Z3,Health City Sector-8,5,3,10.8,62,False
+PKG-0230,Enterprise-0230,Z1,Connaught Financial Hub,11,2,5.9,71,False
+PKG-0231,Enterprise-0231,Z7,Electronic City Phase-2,7,3,10.8,44,False
+PKG-0232,Enterprise-0232,Z5,Botanical Garden Hub,5,3,9.7,84,False
+PKG-0233,Enterprise-0233,Z1,Connaught Financial Hub,7,3,11.2,60,False
+PKG-0234,Enterprise-0234,Z6,Riverfront Cargo Pier,6,3,13.9,75,False
+PKG-0235,Enterprise-0235,Z7,Electronic City Phase-2,10,3,14.9,87,False
+PKG-0236,Enterprise-0236,Z5,Botanical Garden Hub,10,1,2.3,142,False
+PKG-0237,Enterprise-0237,Z5,Botanical Garden Hub,6,1,3.8,104,True
+PKG-0238,Enterprise-0238,Z9,Aerocity Terminal Zone,4,2,4.6,95,False
+PKG-0239,Enterprise-0239,Z3,Health City Sector-8,8,2,3.7,94,False
+PKG-0240,Enterprise-0240,Z9,Aerocity Terminal Zone,3,3,9.0,81,False
+PKG-0241,Enterprise-0241,Z1,Connaught Financial Hub,12,1,1.0,124,False
+PKG-0242,Enterprise-0242,Z10,Knowledge Park Campus,10,1,2.4,120,False
+PKG-0243,Enterprise-0243,Z10,Knowledge Park Campus,7,3,14.8,80,False
+PKG-0244,Enterprise-0244,Z9,Aerocity Terminal Zone,6,1,1.7,95,True
+PKG-0245,Enterprise-0245,Z11,Greenwood Residency,5,1,3.7,110,True
+PKG-0246,Enterprise-0246,Z9,Aerocity Terminal Zone,7,1,3.5,92,False
+PKG-0247,Enterprise-0247,Z3,Health City Sector-8,7,3,9.8,52,False
+PKG-0248,Enterprise-0248,Z9,Aerocity Terminal Zone,6,2,4.9,56,False
+PKG-0249,Enterprise-0249,Z2,Secretariat Enclave,2,1,1.0,91,True
+PKG-0250,Enterprise-0250,Z9,Aerocity Terminal Zone,9,2,4.8,77,False
+PKG-0251,Enterprise-0251,Z5,Botanical Garden Hub,12,3,13.6,41,False
+PKG-0252,Enterprise-0252,Z10,Knowledge Park Campus,5,2,5.6,102,False
+PKG-0253,Enterprise-0253,Z4,Heritage Bullion Market,8,2,5.1,64,False
+PKG-0254,Enterprise-0254,Z5,Botanical Garden Hub,4,3,14.1,44,False
+PKG-0255,Enterprise-0255,Z9,Aerocity Terminal Zone,4,2,5.3,56,False
+PKG-0256,Enterprise-0256,Z5,Botanical Garden Hub,4,3,13.6,88,False
+PKG-0257,Enterprise-0257,Z1,Connaught Financial Hub,1,1,2.8,119,True
+PKG-0258,Enterprise-0258,Z4,Heritage Bullion Market,8,3,7.6,60,False
+PKG-0259,Enterprise-0259,Z10,Knowledge Park Campus,11,2,7.0,60,False
+PKG-0260,Enterprise-0260,Z10,Knowledge Park Campus,8,3,10.1,53,False
+PKG-0261,Enterprise-0261,Z9,Aerocity Terminal Zone,2,3,14.5,84,False
+PKG-0262,Enterprise-0262,Z6,Riverfront Cargo Pier,2,3,7.7,81,False
+PKG-0263,Enterprise-0263,Z2,Secretariat Enclave,12,1,1.9,121,False
+PKG-0264,Enterprise-0264,Z5,Botanical Garden Hub,11,2,6.7,62,False
+PKG-0265,Enterprise-0265,Z8,South Extension Plaza,6,1,3.0,100,True
+PKG-0266,Enterprise-0266,Z11,Greenwood Residency,1,1,1.3,104,True
+PKG-0267,Enterprise-0267,Z5,Botanical Garden Hub,5,3,7.8,77,False
+PKG-0268,Enterprise-0268,Z5,Botanical Garden Hub,8,3,8.9,77,False
+PKG-0269,Enterprise-0269,Z9,Aerocity Terminal Zone,3,3,12.5,76,False
+PKG-0270,Enterprise-0270,Z4,Heritage Bullion Market,11,2,3.5,87,False
+PKG-0271,Enterprise-0271,Z3,Health City Sector-8,1,3,13.6,66,False
+PKG-0272,Enterprise-0272,Z1,Connaught Financial Hub,12,3,12.4,54,False
+PKG-0273,Enterprise-0273,Z6,Riverfront Cargo Pier,5,1,1.5,118,True
+PKG-0274,Enterprise-0274,Z11,Greenwood Residency,1,2,6.2,83,False
+PKG-0275,Enterprise-0275,Z7,Electronic City Phase-2,8,3,14.9,85,False
+PKG-0276,Enterprise-0276,Z5,Botanical Garden Hub,7,3,13.1,65,False
+PKG-0277,Enterprise-0277,Z5,Botanical Garden Hub,11,2,6.4,92,False
+PKG-0278,Enterprise-0278,Z10,Knowledge Park Campus,9,1,2.4,91,False
+PKG-0279,Enterprise-0279,Z4,Heritage Bullion Market,12,2,7.9,83,False
+PKG-0280,Enterprise-0280,Z4,Heritage Bullion Market,5,2,5.6,61,False
+PKG-0281,Enterprise-0281,Z3,Health City Sector-8,12,3,7.7,64,False
+PKG-0282,Enterprise-0282,Z2,Secretariat Enclave,12,2,4.2,82,False
+PKG-0283,Enterprise-0283,Z10,Knowledge Park Campus,4,1,1.7,138,True
+PKG-0284,Enterprise-0284,Z1,Connaught Financial Hub,1,2,7.2,55,False
+PKG-0285,Enterprise-0285,Z8,South Extension Plaza,6,2,7.8,84,False
+PKG-0286,Enterprise-0286,Z5,Botanical Garden Hub,4,3,11.8,85,False
+PKG-0287,Enterprise-0287,Z11,Greenwood Residency,7,2,4.8,88,False
+PKG-0288,Enterprise-0288,Z4,Heritage Bullion Market,5,2,6.5,70,False
+PKG-0289,Enterprise-0289,Z1,Connaught Financial Hub,5,1,1.6,101,True
+PKG-0290,Enterprise-0290,Z10,Knowledge Park Campus,2,1,2.8,125,True
+PKG-0291,Enterprise-0291,Z1,Connaught Financial Hub,7,2,5.2,63,False
+PKG-0292,Enterprise-0292,Z4,Heritage Bullion Market,2,1,2.6,81,True
+PKG-0293,Enterprise-0293,Z9,Aerocity Terminal Zone,5,2,6.3,89,False
+PKG-0294,Enterprise-0294,Z1,Connaught Financial Hub,4,1,3.2,141,True
+PKG-0295,Enterprise-0295,Z1,Connaught Financial Hub,12,2,3.9,96,False
+PKG-0296,Enterprise-0296,Z5,Botanical Garden Hub,2,2,7.9,63,False
+PKG-0297,Enterprise-0297,Z11,Greenwood Residency,4,3,8.9,43,False
+PKG-0298,Enterprise-0298,Z4,Heritage Bullion Market,8,2,7.5,101,False
+PKG-0299,Enterprise-0299,Z2,Secretariat Enclave,2,2,4.3,67,False
+PKG-0300,Enterprise-0300,Z4,Heritage Bullion Market,5,2,6.4,62,False
+PKG-0301,Enterprise-0301,Z5,Botanical Garden Hub,8,3,8.8,47,False
+PKG-0302,Enterprise-0302,Z9,Aerocity Terminal Zone,6,1,3.2,95,True
+PKG-0303,Enterprise-0303,Z3,Health City Sector-8,4,2,4.4,77,False
+PKG-0304,Enterprise-0304,Z7,Electronic City Phase-2,7,1,3.6,86,False
+PKG-0305,Enterprise-0305,Z6,Riverfront Cargo Pier,10,2,7.9,70,False
+PKG-0306,Enterprise-0306,Z11,Greenwood Residency,9,2,5.6,68,False
+PKG-0307,Enterprise-0307,Z8,South Extension Plaza,7,2,4.8,76,False
+PKG-0308,Enterprise-0308,Z6,Riverfront Cargo Pier,4,2,6.8,100,False
+PKG-0309,Enterprise-0309,Z11,Greenwood Residency,6,1,2.4,147,True
+PKG-0310,Enterprise-0310,Z11,Greenwood Residency,9,2,7.6,62,False
+PKG-0311,Enterprise-0311,Z8,South Extension Plaza,10,3,8.0,84,False
+PKG-0312,Enterprise-0312,Z10,Knowledge Park Campus,6,1,2.7,106,True
+PKG-0313,Enterprise-0313,Z1,Connaught Financial Hub,6,2,4.2,88,False
+PKG-0314,Enterprise-0314,Z4,Heritage Bullion Market,4,2,7.6,96,False
+PKG-0315,Enterprise-0315,Z5,Botanical Garden Hub,9,2,7.8,84,False
+PKG-0316,Enterprise-0316,Z11,Greenwood Residency,5,1,2.7,140,True
+PKG-0317,Enterprise-0317,Z7,Electronic City Phase-2,6,2,7.1,62,False
+PKG-0318,Enterprise-0318,Z4,Heritage Bullion Market,10,2,6.0,100,False
+PKG-0319,Enterprise-0319,Z10,Knowledge Park Campus,5,1,2.1,140,True
+PKG-0320,Enterprise-0320,Z5,Botanical Garden Hub,4,2,5.0,56,False
+PKG-0321,Enterprise-0321,Z4,Heritage Bullion Market,2,2,4.8,112,False
+PKG-0322,Enterprise-0322,Z5,Botanical Garden Hub,10,3,9.1,77,False
+PKG-0323,Enterprise-0323,Z8,South Extension Plaza,1,2,3.5,102,False
+PKG-0324,Enterprise-0324,Z8,South Extension Plaza,8,3,10.0,82,False
+PKG-0325,Enterprise-0325,Z5,Botanical Garden Hub,2,3,13.4,61,False
+PKG-0326,Enterprise-0326,Z1,Connaught Financial Hub,4,1,2.7,94,True
+PKG-0327,Enterprise-0327,Z5,Botanical Garden Hub,10,2,7.9,81,False
+PKG-0328,Enterprise-0328,Z1,Connaught Financial Hub,10,3,9.3,60,False
+PKG-0329,Enterprise-0329,Z8,South Extension Plaza,3,2,6.8,70,False
+PKG-0330,Enterprise-0330,Z6,Riverfront Cargo Pier,5,3,11.7,61,False
+PKG-0331,Enterprise-0331,Z4,Heritage Bullion Market,2,2,7.3,79,False
+PKG-0332,Enterprise-0332,Z4,Heritage Bullion Market,5,1,2.6,141,True
+PKG-0333,Enterprise-0333,Z11,Greenwood Residency,2,3,9.1,51,False
+PKG-0334,Enterprise-0334,Z9,Aerocity Terminal Zone,11,1,2.1,97,False
+PKG-0335,Enterprise-0335,Z7,Electronic City Phase-2,12,1,2.4,113,False
+PKG-0336,Enterprise-0336,Z11,Greenwood Residency,10,1,1.3,136,False
+PKG-0337,Enterprise-0337,Z2,Secretariat Enclave,6,2,7.4,115,False
+PKG-0338,Enterprise-0338,Z2,Secretariat Enclave,7,3,9.0,76,False
+PKG-0339,Enterprise-0339,Z11,Greenwood Residency,3,1,1.1,114,True
+PKG-0340,Enterprise-0340,Z6,Riverfront Cargo Pier,7,2,5.2,105,False
+PKG-0341,Enterprise-0341,Z5,Botanical Garden Hub,10,1,1.6,125,False
+PKG-0342,Enterprise-0342,Z7,Electronic City Phase-2,11,3,10.9,43,False
+PKG-0343,Enterprise-0343,Z9,Aerocity Terminal Zone,5,1,1.9,130,True
+PKG-0344,Enterprise-0344,Z4,Heritage Bullion Market,12,3,11.7,69,False
+PKG-0345,Enterprise-0345,Z2,Secretariat Enclave,2,1,1.3,81,True
+PKG-0346,Enterprise-0346,Z5,Botanical Garden Hub,11,1,1.1,119,False
+PKG-0347,Enterprise-0347,Z4,Heritage Bullion Market,9,3,8.8,83,False
+PKG-0348,Enterprise-0348,Z7,Electronic City Phase-2,8,2,6.2,83,False
+PKG-0349,Enterprise-0349,Z1,Connaught Financial Hub,7,1,2.1,97,False
+PKG-0350,Enterprise-0350,Z7,Electronic City Phase-2,6,2,6.5,101,False
+PKG-0351,Enterprise-0351,Z5,Botanical Garden Hub,10,2,6.6,70,False
+PKG-0352,Enterprise-0352,Z9,Aerocity Terminal Zone,11,2,5.2,74,False
+PKG-0353,Enterprise-0353,Z1,Connaught Financial Hub,7,2,5.6,88,False
+PKG-0354,Enterprise-0354,Z3,Health City Sector-8,7,3,9.6,52,False
+PKG-0355,Enterprise-0355,Z1,Connaught Financial Hub,11,2,7.7,110,False
+PKG-0356,Enterprise-0356,Z9,Aerocity Terminal Zone,5,1,1.6,102,True
+PKG-0357,Enterprise-0357,Z9,Aerocity Terminal Zone,5,2,3.7,65,False
+PKG-0358,Enterprise-0358,Z8,South Extension Plaza,5,3,10.7,73,False
+PKG-0359,Enterprise-0359,Z10,Knowledge Park Campus,11,2,6.0,112,False
+PKG-0360,Enterprise-0360,Z7,Electronic City Phase-2,2,2,4.8,87,False
+PKG-0361,Enterprise-0361,Z3,Health City Sector-8,11,1,2.5,102,False
+PKG-0362,Enterprise-0362,Z1,Connaught Financial Hub,3,2,3.6,107,False
+PKG-0363,Enterprise-0363,Z11,Greenwood Residency,3,2,4.7,95,False
+PKG-0364,Enterprise-0364,Z10,Knowledge Park Campus,10,1,1.5,114,False
+PKG-0365,Enterprise-0365,Z3,Health City Sector-8,5,1,3.0,99,True
+PKG-0366,Enterprise-0366,Z1,Connaught Financial Hub,10,1,2.9,132,False
+PKG-0367,Enterprise-0367,Z7,Electronic City Phase-2,5,1,3.7,110,True
+PKG-0368,Enterprise-0368,Z8,South Extension Plaza,6,1,2.5,97,True
+PKG-0369,Enterprise-0369,Z3,Health City Sector-8,9,1,2.3,144,False
+PKG-0370,Enterprise-0370,Z2,Secretariat Enclave,12,1,2.8,144,False
+PKG-0371,Enterprise-0371,Z9,Aerocity Terminal Zone,9,1,2.8,113,False
+PKG-0372,Enterprise-0372,Z8,South Extension Plaza,3,2,7.6,79,False
+PKG-0373,Enterprise-0373,Z5,Botanical Garden Hub,6,1,3.4,89,True
+PKG-0374,Enterprise-0374,Z5,Botanical Garden Hub,2,1,2.9,99,True
+PKG-0375,Enterprise-0375,Z1,Connaught Financial Hub,9,1,1.4,108,False
+PKG-0376,Enterprise-0376,Z11,Greenwood Residency,11,2,7.9,64,False
+PKG-0377,Enterprise-0377,Z6,Riverfront Cargo Pier,6,2,4.9,93,False
+PKG-0378,Enterprise-0378,Z8,South Extension Plaza,1,2,4.2,55,False
+PKG-0379,Enterprise-0379,Z9,Aerocity Terminal Zone,10,2,7.6,62,False
+PKG-0380,Enterprise-0380,Z6,Riverfront Cargo Pier,4,2,5.3,82,False
+PKG-0381,Enterprise-0381,Z6,Riverfront Cargo Pier,4,3,14.0,50,False
+PKG-0382,Enterprise-0382,Z6,Riverfront Cargo Pier,12,2,7.0,87,False
+PKG-0383,Enterprise-0383,Z5,Botanical Garden Hub,1,1,2.3,82,True
+PKG-0384,Enterprise-0384,Z4,Heritage Bullion Market,10,1,3.8,101,False
+PKG-0385,Enterprise-0385,Z11,Greenwood Residency,9,1,1.7,88,False
+PKG-0386,Enterprise-0386,Z2,Secretariat Enclave,10,3,9.9,68,False
+PKG-0387,Enterprise-0387,Z1,Connaught Financial Hub,7,2,6.5,115,False
+PKG-0388,Enterprise-0388,Z11,Greenwood Residency,8,3,8.4,54,False
+PKG-0389,Enterprise-0389,Z9,Aerocity Terminal Zone,7,1,1.3,121,False
+PKG-0390,Enterprise-0390,Z5,Botanical Garden Hub,4,3,12.7,63,False
+PKG-0391,Enterprise-0391,Z9,Aerocity Terminal Zone,9,2,3.9,108,False
+PKG-0392,Enterprise-0392,Z11,Greenwood Residency,3,3,12.7,85,False
+PKG-0393,Enterprise-0393,Z8,South Extension Plaza,12,2,4.8,103,False
+PKG-0394,Enterprise-0394,Z11,Greenwood Residency,3,1,1.7,97,True
+PKG-0395,Enterprise-0395,Z4,Heritage Bullion Market,12,2,7.3,98,False
+PKG-0396,Enterprise-0396,Z9,Aerocity Terminal Zone,10,2,6.9,110,False
+PKG-0397,Enterprise-0397,Z10,Knowledge Park Campus,12,2,4.3,70,False
+PKG-0398,Enterprise-0398,Z4,Heritage Bullion Market,3,1,2.2,110,True
+PKG-0399,Enterprise-0399,Z4,Heritage Bullion Market,5,2,3.8,95,False
+PKG-0400,Enterprise-0400,Z6,Riverfront Cargo Pier,10,2,3.7,61,False
+PKG-0401,Enterprise-0401,Z7,Electronic City Phase-2,6,3,12.7,53,False
+PKG-0402,Enterprise-0402,Z4,Heritage Bullion Market,4,1,3.4,108,True
+PKG-0403,Enterprise-0403,Z10,Knowledge Park Campus,5,1,2.6,115,True
+PKG-0404,Enterprise-0404,Z2,Secretariat Enclave,3,2,3.6,91,False
+PKG-0405,Enterprise-0405,Z9,Aerocity Terminal Zone,7,3,8.9,53,False
+PKG-0406,Enterprise-0406,Z11,Greenwood Residency,6,3,8.8,72,False
+PKG-0407,Enterprise-0407,Z10,Knowledge Park Campus,10,2,7.8,64,False
+PKG-0408,Enterprise-0408,Z3,Health City Sector-8,1,2,6.2,103,False
+PKG-0409,Enterprise-0409,Z4,Heritage Bullion Market,7,1,3.8,100,False
+PKG-0410,Enterprise-0410,Z9,Aerocity Terminal Zone,9,2,4.7,93,False
+PKG-0411,Enterprise-0411,Z6,Riverfront Cargo Pier,4,2,6.9,99,False
+PKG-0412,Enterprise-0412,Z10,Knowledge Park Campus,11,2,3.9,71,False
+PKG-0413,Enterprise-0413,Z5,Botanical Garden Hub,5,2,7.9,82,False
+PKG-0414,Enterprise-0414,Z5,Botanical Garden Hub,12,3,13.0,40,False
+PKG-0415,Enterprise-0415,Z8,South Extension Plaza,1,2,4.2,67,False
+PKG-0416,Enterprise-0416,Z2,Secretariat Enclave,10,2,6.2,95,False
+PKG-0417,Enterprise-0417,Z6,Riverfront Cargo Pier,7,2,4.9,93,False
+PKG-0418,Enterprise-0418,Z2,Secretariat Enclave,11,2,5.8,74,False
+PKG-0419,Enterprise-0419,Z11,Greenwood Residency,5,1,2.8,100,True
+PKG-0420,Enterprise-0420,Z6,Riverfront Cargo Pier,4,2,5.7,66,False
+PKG-0421,Enterprise-0421,Z6,Riverfront Cargo Pier,2,1,1.9,130,True
+PKG-0422,Enterprise-0422,Z9,Aerocity Terminal Zone,9,1,3.6,120,False
+PKG-0423,Enterprise-0423,Z6,Riverfront Cargo Pier,1,1,1.3,104,True
+PKG-0424,Enterprise-0424,Z5,Botanical Garden Hub,3,3,11.6,61,False
+PKG-0425,Enterprise-0425,Z8,South Extension Plaza,11,2,3.6,71,False
+PKG-0426,Enterprise-0426,Z6,Riverfront Cargo Pier,12,1,2.7,117,False
+PKG-0427,Enterprise-0427,Z4,Heritage Bullion Market,7,1,2.1,124,False
+PKG-0428,Enterprise-0428,Z5,Botanical Garden Hub,1,1,3.3,111,True
+PKG-0429,Enterprise-0429,Z2,Secretariat Enclave,5,1,2.8,107,True
+PKG-0430,Enterprise-0430,Z2,Secretariat Enclave,11,1,2.7,135,False
+PKG-0431,Enterprise-0431,Z7,Electronic City Phase-2,8,3,13.9,79,False
+PKG-0432,Enterprise-0432,Z9,Aerocity Terminal Zone,2,1,3.3,145,True
+PKG-0433,Enterprise-0433,Z5,Botanical Garden Hub,5,3,8.9,53,False
+PKG-0434,Enterprise-0434,Z2,Secretariat Enclave,9,3,13.0,44,False
+PKG-0435,Enterprise-0435,Z9,Aerocity Terminal Zone,1,1,1.2,94,True
+PKG-0436,Enterprise-0436,Z3,Health City Sector-8,2,2,3.5,97,False
+PKG-0437,Enterprise-0437,Z1,Connaught Financial Hub,12,2,6.8,71,False
+PKG-0438,Enterprise-0438,Z7,Electronic City Phase-2,2,1,2.7,122,True
+PKG-0439,Enterprise-0439,Z3,Health City Sector-8,12,1,2.0,135,False
+PKG-0440,Enterprise-0440,Z9,Aerocity Terminal Zone,7,2,6.7,91,False
+PKG-0441,Enterprise-0441,Z6,Riverfront Cargo Pier,5,3,12.3,72,False
+PKG-0442,Enterprise-0442,Z4,Heritage Bullion Market,11,1,2.3,103,False
+PKG-0443,Enterprise-0443,Z6,Riverfront Cargo Pier,1,1,2.0,125,True
+PKG-0444,Enterprise-0444,Z10,Knowledge Park Campus,9,2,4.7,88,False
+PKG-0445,Enterprise-0445,Z2,Secretariat Enclave,9,2,3.7,89,False
+PKG-0446,Enterprise-0446,Z5,Botanical Garden Hub,2,1,1.2,116,True
+PKG-0447,Enterprise-0447,Z4,Heritage Bullion Market,5,1,2.7,114,True
+PKG-0448,Enterprise-0448,Z8,South Extension Plaza,6,2,7.1,96,False
+PKG-0449,Enterprise-0449,Z4,Heritage Bullion Market,2,1,1.7,100,True
+PKG-0450,Enterprise-0450,Z4,Heritage Bullion Market,5,3,8.7,42,False
+PKG-0451,Enterprise-0451,Z5,Botanical Garden Hub,3,3,10.9,76,False
+PKG-0452,Enterprise-0452,Z8,South Extension Plaza,7,2,4.5,89,False
+PKG-0453,Enterprise-0453,Z2,Secretariat Enclave,8,2,5.2,79,False
+PKG-0454,Enterprise-0454,Z5,Botanical Garden Hub,4,2,4.9,74,False
+PKG-0455,Enterprise-0455,Z6,Riverfront Cargo Pier,8,2,4.3,111,False
+PKG-0456,Enterprise-0456,Z8,South Extension Plaza,3,1,2.9,130,True
+PKG-0457,Enterprise-0457,Z11,Greenwood Residency,11,1,1.6,113,False
+PKG-0458,Enterprise-0458,Z2,Secretariat Enclave,10,2,4.6,68,False
+PKG-0459,Enterprise-0459,Z2,Secretariat Enclave,1,2,4.0,85,False
+PKG-0460,Enterprise-0460,Z6,Riverfront Cargo Pier,9,2,3.6,76,False
+PKG-0461,Enterprise-0461,Z6,Riverfront Cargo Pier,8,1,1.0,102,False
+PKG-0462,Enterprise-0462,Z6,Riverfront Cargo Pier,8,1,3.5,122,False
+PKG-0463,Enterprise-0463,Z8,South Extension Plaza,5,2,5.0,68,False
+PKG-0464,Enterprise-0464,Z7,Electronic City Phase-2,5,2,6.4,100,False
+PKG-0465,Enterprise-0465,Z4,Heritage Bullion Market,7,1,2.5,93,False
+PKG-0466,Enterprise-0466,Z2,Secretariat Enclave,6,1,1.2,133,True
+PKG-0467,Enterprise-0467,Z4,Heritage Bullion Market,7,2,6.3,109,False
+PKG-0468,Enterprise-0468,Z9,Aerocity Terminal Zone,12,1,2.4,132,False
+PKG-0469,Enterprise-0469,Z11,Greenwood Residency,9,2,4.4,112,False
+PKG-0470,Enterprise-0470,Z11,Greenwood Residency,1,2,5.8,87,False
+PKG-0471,Enterprise-0471,Z10,Knowledge Park Campus,1,3,10.2,57,False
+PKG-0472,Enterprise-0472,Z9,Aerocity Terminal Zone,2,2,6.9,56,False
+PKG-0473,Enterprise-0473,Z9,Aerocity Terminal Zone,7,2,4.7,80,False
+PKG-0474,Enterprise-0474,Z2,Secretariat Enclave,4,1,3.1,102,True
+PKG-0475,Enterprise-0475,Z9,Aerocity Terminal Zone,6,1,1.6,135,True
+PKG-0476,Enterprise-0476,Z10,Knowledge Park Campus,12,2,5.0,89,False
+PKG-0477,Enterprise-0477,Z2,Secretariat Enclave,11,1,1.2,147,False
+PKG-0478,Enterprise-0478,Z3,Health City Sector-8,1,2,5.4,99,False
+PKG-0479,Enterprise-0479,Z8,South Extension Plaza,11,2,4.3,101,False
+PKG-0480,Enterprise-0480,Z5,Botanical Garden Hub,7,2,7.4,77,False
+PKG-0481,Enterprise-0481,Z4,Heritage Bullion Market,8,2,6.3,66,False
+PKG-0482,Enterprise-0482,Z3,Health City Sector-8,7,3,14.2,71,False
+PKG-0483,Enterprise-0483,Z3,Health City Sector-8,7,2,8.0,86,False
+PKG-0484,Enterprise-0484,Z3,Health City Sector-8,4,3,9.5,87,False
+PKG-0485,Enterprise-0485,Z10,Knowledge Park Campus,3,3,8.6,58,False
+PKG-0486,Enterprise-0486,Z1,Connaught Financial Hub,11,2,5.4,86,False
+PKG-0487,Enterprise-0487,Z6,Riverfront Cargo Pier,1,2,3.5,109,False
+PKG-0488,Enterprise-0488,Z11,Greenwood Residency,4,1,3.4,141,True
+PKG-0489,Enterprise-0489,Z10,Knowledge Park Campus,6,1,1.5,150,True
+PKG-0490,Enterprise-0490,Z10,Knowledge Park Campus,2,3,8.7,73,False
+PKG-0491,Enterprise-0491,Z9,Aerocity Terminal Zone,11,2,6.5,95,False
+PKG-0492,Enterprise-0492,Z6,Riverfront Cargo Pier,9,2,7.6,69,False
+PKG-0493,Enterprise-0493,Z7,Electronic City Phase-2,2,1,2.0,104,True
+PKG-0494,Enterprise-0494,Z5,Botanical Garden Hub,9,2,5.2,114,False
+PKG-0495,Enterprise-0495,Z3,Health City Sector-8,10,2,4.0,112,False
+PKG-0496,Enterprise-0496,Z7,Electronic City Phase-2,9,3,9.8,84,False
+PKG-0497,Enterprise-0497,Z11,Greenwood Residency,8,2,6.6,61,False
+PKG-0498,Enterprise-0498,Z5,Botanical Garden Hub,2,3,10.3,87,False
+PKG-0499,Enterprise-0499,Z1,Connaught Financial Hub,9,2,4.2,70,False
+PKG-0500,Enterprise-0500,Z6,Riverfront Cargo Pier,11,1,2.7,109,False
